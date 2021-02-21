@@ -1,7 +1,6 @@
 class Solution{
 	int ret = 0;
 
-
 public:
 	int romanToInt(string s) {
 		int tmp;
